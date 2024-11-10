@@ -6,6 +6,6 @@ My research intersects GIScience, Geospatial Data Science, and Computer Vision, 
 
 Currently, I am working on my doctoral thesis, which focuses on using GeoAI to represent the urban visual environment based on city imagery, primarily involving remote sensing imagery and street-level imagery. We want to understand how humans transform urban physical spaces and how these spaces, in turn, reflect human daily life.
 
-I am actively seeking Postdoc positions at the moment.
+With my doctoral degree expected in June 2025, I am currently seeking faculty or postdoctoral positions.
 
 🌐 Check out my [personal website](https://yingjinghuang.github.io/) for more about my work and projects!
